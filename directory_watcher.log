@@ -1,0 +1,20 @@
+2025-04-15 16:10:40 - INFO - Watching directory: '/Users/DRobinson/Desktop/dev' with output: '/Users/DRobinson/Desktop/dev 2' (delay_time=0s, debounce_delay=2s)
+2025-04-15 16:10:40 - INFO - Watching directory: '/Users/DRobinson/Desktop/dev 2' with output: '/Users/DRobinson/Desktop/dev' (delay_time=0s, debounce_delay=2s)
+2025-04-15 16:11:29 - INFO - New file detected: /Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd
+2025-04-15 16:11:29 - INFO - Copied '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' to '/Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd'
+2025-04-15 16:11:29 - INFO - Modified directory detected: /Users/DRobinson/Desktop/dev
+2025-04-15 16:11:29 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.00 seconds since last event)
+2025-04-15 16:11:29 - INFO - New file detected: /Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd
+2025-04-15 16:11:29 - INFO - Copied '/Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' to '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd'
+2025-04-15 16:11:29 - INFO - Modified directory detected: /Users/DRobinson/Desktop/dev 2
+2025-04-15 16:11:29 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.01 seconds since last event)
+2025-04-15 16:11:29 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.24 seconds since last event)
+2025-04-15 16:11:33 - INFO - Modified file detected: /Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd
+2025-04-15 16:11:33 - INFO - Copied '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' to '/Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd'
+2025-04-15 16:11:33 - INFO - Modified directory detected: /Users/DRobinson/Desktop/dev
+2025-04-15 16:11:33 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.00 seconds since last event)
+2025-04-15 16:11:33 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev' (only 0.00 seconds since last event)
+2025-04-15 16:11:33 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.00 seconds since last event)
+2025-04-15 16:11:33 - INFO - Modified file detected: /Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd
+2025-04-15 16:11:33 - INFO - Copied '/Users/DRobinson/Desktop/dev 2/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' to '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd'
+2025-04-15 16:11:33 - INFO - Debouncing event for '/Users/DRobinson/Desktop/dev/Y65222_TCG_G1_U5_W3 2.50.08 PM.indd' (only 0.02 seconds since last event)
